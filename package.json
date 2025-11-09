@@ -18,6 +18,9 @@
   },
   "license": "MIT",
   "author": "Start Bootstrap",
+  "engines": {
+  "node": "18.x"
+},
   "contributors": [
     "David Miller (http://davidmiller.io/)"
   ],
